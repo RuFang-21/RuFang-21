@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact.me@rufang.dev**
 
-- 📄 Know about my experiences in [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 📄 Know about my experiences in www.linkedin.com/in/ru-fang-chan-a8895a222
 
 - ⚡ Fun fact **- I start each day with a dose of confidence by reminding myself how pretty I am before diving into the world of coding as a talented software developer! 🌟💻**
 
