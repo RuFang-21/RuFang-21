@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **my own personal portfolio**
 
-- 🌱 I’m currently learning **UI/UX Design and flutter**
-
-- 👨‍💻 Some of my projects are available at [rufang.dev](rufang.dev)
-
-- 📝 I am planning to write articles on [rufang.dev](rufang.dev)
+- 👨‍💻 Some of my projects are available at https://rufang.dev/
 
 - 💬 Ask me about **react, react native**
 
